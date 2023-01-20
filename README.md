@@ -9,9 +9,9 @@
 📊 [AngelBlock](https://www.angelblock.io) Early Investor.                                                                                                             
 
 
-✅I have great experience working on Complex N.F.T.s Projects and Platforms, including N.F.T.s linked to Real Life ArtWorks.
-✅Low Gas Consumption and Security are my Crucial Focus when Developing and/or Auditing Smart Contracts.
-✅I Developed projects for +13 clients on UpWork with an average rating of 5/5.
+✅I have great experience working on Complex N.F.T.s Projects and Platforms, including N.F.T.s linked to Real Life ArtWorks.                                           
+✅Low Gas Consumption and Security are my Crucial Focus when Developing and/or Auditing Smart Contracts.                                                               
+✅I Developed projects for +13 clients on UpWork with an average rating of 5/5.                                                                                       
 
 📓My Skills Include Javascript, Typescript, Solidity, Git Console, Hardhat, Truffle Suite, Ethers.js, Web3.js, Open Zeppelin Library, Unit Testing(with Mocha & Chai), Slither and Mythril, ChainLink and I.P.F.S Client as Main Skills; HTML5, CSS3, Bootstrap 4, Material-UI, SASS, React.js Hooks, Redux and Vue.js on the Front-end and I also have Basic Knowledge in Node.js, Express.js, MongoDB and Mongoose on the Back-end as Secondary Skills.📓
 

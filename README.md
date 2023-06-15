@@ -26,9 +26,9 @@
 
 [👨🏻‍💻Hire me in 💻UpWork!](https://www.upwork.com/freelancers/~01016dcdaa54e14741?s=1044578476142100518)
 
-✔️See my (public) work and projects:_                                                                                                                                 
-⛓GitHub:_ https://github.com/Nachoxt17                                                                                                                                 
-⛓Portfolio:_ https://nachoxt17.github.io/ignacioceaglio-portfolio/                                                                                                     
+✔️See my (public) work and projects:                                                                                                                                  
+⛓GitHub:  https://github.com/Nachoxt17                                                                                                                                 
+⛓Portfolio:  https://nachoxt17.github.io/ignacioceaglio-portfolio/                                                                                                     
 
 ⌨️I get a lot of messages from recruiters. To respect both of our time, instead of messaging me, please fill out this form:
 https://forms.gle/tdW6E2nHVWxmAh9Z9

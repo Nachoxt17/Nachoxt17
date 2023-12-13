@@ -1,7 +1,5 @@
-💻#Senior #Blockchain #Solidity #SmartContracts #Engineer and #Auditor with Exceptional Experience.💻                                                                 
-[📄Download my CV HERE!](https://drive.google.com/file/d/15l0nj3mIoNzNbKfYWdSqzinfZRNAEo8I/view?usp=sharing)
+💻#Senior #Blockchain #Solidity #SmartContracts #Engineer and #Auditor with Exceptional Experience.💻             
 
-[![Nachoxt17 stats](https://github-readme-stats.vercel.app/api?username=Nachoxt17&hide=contribs&show_icons=true&theme=tokyonight)](#)
 
 🛠About me:                                                                                                                                                             
 🔭 [Artizen.Fund](https://www.artizen.fund) Early Adopter.                                                                                                             

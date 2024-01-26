@@ -3,7 +3,7 @@
 
 🛠About me:                                                                                                                                                             
 🔭 [Artizen.Fund](https://www.artizen.fund) Early Adopter.                                                                                                             
-⛓ [Open Art Market](https://openartmarket.com) Pioneer Solidity Smart Contracts Developer.                                                                             
+⛓ [Open Art Market](https://openartmarket.com) Foundational Solidity Smart Contracts Developer.                                                                             
 📊 [AngelBlock](https://www.angelblock.io) Early Investor.                                                                                                             
 
 

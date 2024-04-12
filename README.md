@@ -1,6 +1,6 @@
 # 👨‍💻 Ignacio Ceaglio 🚀
 
-**`Solidity Developer + Product Architect + Talkative = Blockchain C.T.O. On-Demand`**
+**`Senior Solidity Developer + Technical Project Architect + People's Person = Blockchain C.T.O. On-Demand`**
 
 🛠About me:                                                                                                                                                             
 🔭 [Artizen.Fund](https://www.artizen.fund) Early Adopter.                                                                                                             

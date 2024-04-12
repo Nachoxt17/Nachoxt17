@@ -1,3 +1,7 @@
+# 👨‍💻 Ignacio Ceaglio 🚀
+
+**`Solidity Developer + Product Architect + Talkative = Blockchain C.T.O. On-Demand`**
+
 🛠About me:                                                                                                                                                             
 🔭 [Artizen.Fund](https://www.artizen.fund) Early Adopter.                                                                                                             
 ⛓ [Open Art Market](https://openartmarket.com) Foundational Solidity Smart Contracts Developer.                                                                             

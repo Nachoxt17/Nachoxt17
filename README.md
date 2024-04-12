@@ -2,11 +2,11 @@
 
 **`Senior Solidity Developer + Technical Project Architect + People's Person = Blockchain C.T.O. On-Demand`**
 
-👨🏻‍💻My Professional Passion is in Planning, Architecting, Developing and Testing projects like [Open Art Market](https://openartmarket.com) and [AngelBlock](https://www.angelblock.io) that help to democratize Valuable Investment opportunities for the common people.  My clients and co-workers (Recommendations below) have praised me for being, in their own words; “very curious, pro-active, positive, humble, helpful, diligent, intelligent, passionate and ambitious”.👨🏻‍💻                                                                                                                                                                                                  
+👨🏻‍💻My Professional Passion is in Planning, Architecting, Developing and Testing projects like [Open Art Market](https://openartmarket.com) and [AngelBlock](https://www.angelblock.io) that help to democratize Valuable Investment opportunities for the common people and connect Real Word Assets (R.W.A.) to the Blockchain.  My clients and co-workers (Recommendations below) have praised me for being, in their own words; “very curious, pro-active, positive, humble, helpful, diligent, intelligent, passionate and ambitious”.👨🏻‍💻                                                                                                                                                                                                  
 
 🔭 [Artizen.Fund](https://www.artizen.fund) Early Adopter.                                                                                                             
 ⛓ [Open Art Market](https://openartmarket.com) (Production) Foundational Solidity Smart Contracts Developer.                                                                             
-📊 [AngelBlock](https://www.angelblock.io) Early Investor.
+📊 [AngelBlock](https://www.angelblock.io) Early Investor.                                                                                                                                                    
 🌦 [ANZAIRU](https://anzairu.com) and ⚽️[VERTULO](https://vertulo.com) ex-C.T.O.
 
 
@@ -25,7 +25,7 @@
    
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -42,12 +42,14 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+# 🗳️ What people say:
 
-# 📊 GitHub Stats:
+<img alt="" src="">
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nachoxt17&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Nachoxt17&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)                                                                                                
 
 <details>

@@ -44,7 +44,11 @@
 
 # 🗳️ What people say:
 
-<img alt="" src="">
+<img alt="Reviews in Linkedin" src="./Reviews_In_Linkedin.png" style="width: 1062px;">
+<img alt="Review in UpWork #1" src="./Review_In-UpWork_1.jpg">
+<img alt="Review in UpWork #2" src="./Review_In-UpWork_2.jpg">
+<img alt="Review in UpWork #3" src="./Review_In-UpWork_3.jpg">
+<img alt="Review in UpWork #4" src="./Review_In-UpWork_4.jpg">
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nachoxt17&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>

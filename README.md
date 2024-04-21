@@ -53,8 +53,10 @@ My clients and co-workers (Recommendations below) have praised me for being, in 
 <img alt="Review in UpWork #3" src="./Review_In-UpWork_3.jpg">
 <img alt="Review in UpWork #4" src="./Review_In-UpWork_4.jpg">
 
+<!--
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nachoxt17&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+-->
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Nachoxt17&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)                                                                                                

@@ -5,8 +5,8 @@
 👨🏻‍💻My Professional Passion is in Planning, Architecting, Developing and Testing projects like [Open Art Market](https://openartmarket.com) and [AngelBlock](https://www.angelblock.io) that help to democratize Valuable Investment opportunities for the common people and connect Real Word Assets (R.W.A.) to the Blockchain.                                                                                   
 
 My clients and co-workers (Recommendations below) have praised me for being, in their own words; “very curious, pro-active, positive, humble, helpful, diligent, intelligent, passionate and ambitious”.👨🏻‍💻                                                                                                                                                                                                  
-
-🔭 [Artizen.Fund](https://www.artizen.fund) Early Adopter.                                                                                                             
+📜 Creator of the ERC-7776: Transparent Financial Statements Standard.
+🔭 [Artizen.Fund](https://www.artizen.fund) Web2.0-to-Web3.0 Transition Architect.                                                                                                             
 ⛓ [Open Art Market](https://openartmarket.com) (Production) Foundational Solidity Smart Contracts Developer.                                                                             
 📊 [AngelBlock](https://www.angelblock.io) Early Investor.                                                                                                                                                    
 🌦 [ANZAIRU](https://anzairu.com) and ⚽️[VERTULO](https://vertulo.com) ex-C.T.O.

@@ -7,7 +7,7 @@
 My clients and co-workers (Recommendations below) have praised me for being, in their own words; “very curious, pro-active, positive, humble, helpful, diligent, intelligent, passionate and ambitious”.👨🏻‍💻    
 
 
-📜 Creator of the ERC-7776: Transparent Financial Statements Standard.
+📜 Creator of the ERC-7776: Transparent Financial Statements Standard.                                                                                                                                        
 🔭 [Artizen.Fund](https://www.artizen.fund) Web2.0-to-Web3.0 Transition Architect.                                                                                                             
 ⛓ [Open Art Market](https://openartmarket.com) (Production) Foundational Solidity Smart Contracts Developer.                                                                             
 📊 [AngelBlock](https://www.angelblock.io) Early Investor.                                                                                                                                                    

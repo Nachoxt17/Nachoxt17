@@ -84,9 +84,3 @@ My clients and co-workers (Recommendations below) have praised me for being, in 
 https://forms.gle/tdW6E2nHVWxmAh9Z9
 </details>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

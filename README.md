@@ -1,8 +1,14 @@
 # 👨‍💻 Ignacio Ceaglio 💻🚀
 
+**`Data Scientist and Machine Learning Engineer-Scientist Python | Data Engineer SQL.`**                                                                                                         
 **`Senior Solidity Developer + Technical Project Architect + People's Person = Blockchain C.T.O. On-Demand`**
 
-👨🏻‍💻My Professional Passion is in Planning, Architecting, Developing and Testing projects like [Open Art Market](https://openartmarket.com) and [AngelBlock](https://www.angelblock.io) that help to democratize Valuable Investment opportunities for the common people and connect Real Word Assets (R.W.A.) to the Blockchain.                                                                                   
+👨🏻‍💻My professional passion is in planning, architecting, developing and testing Machine Learning Models that help to research Valuable
+Investment and Business opportunities for the shareholders, and in talking/networking with clients and company partners. **I have a
+background in Full-Stack JavaScript Web Development** at the beginning of my career, and later I developed a strong background in
+Solidity Smart Contracts Development; **but since then I have specialized in Data Science and Machine Learning Engineering in
+Python.**
+                                                                                   
 
 My clients and co-workers (Recommendations below) have praised me for being, in their own words; “very curious, pro-active, positive, humble, helpful, diligent, intelligent, passionate and ambitious”.👨🏻‍💻    
 
@@ -66,6 +72,8 @@ My clients and co-workers (Recommendations below) have praised me for being, in 
 
 <details>
  <summary><h3>👨‍💻 About me:</h3></summary>
+
+📓📓
 
 👨🏼‍💻Blockchain C.T.O./Tech Guy for Hire💻:
 🤔Are you a Blockchain Start-Up that doesn't have a C.T.O./Have one without Real Life Coding Skills?🤔 💢No problem! I can support you if you Temporarily need a C.T.O. for:                              

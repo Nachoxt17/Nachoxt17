@@ -70,25 +70,3 @@ My clients and co-workers (Recommendations below) have praised me for being, in 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Nachoxt17&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)                                                                                                
 
-<details>
- <summary><h3>👨‍💻 About me:</h3></summary>
-
-📓📓
-
-👨🏼‍💻Blockchain C.T.O./Tech Guy for Hire💻:
-🤔Are you a Blockchain Start-Up that doesn't have a C.T.O./Have one without Real Life Coding Skills?🤔 💢No problem! I can support you if you Temporarily need a C.T.O. for:                              
-
-✳️ Hiring a Software Development/Technical Talent for creating your M.V.P.                                                                                                                                    
-✳️ Understanding the processes and struggles of Blockchain Software Development.                                                                                                                              
-✔️"It's not about the finished Product; it's about the Process".                                                                                                                                              
-✔️"It's not about Coding, it's about Communication".                                                                                                                                                          
-✅I Understand for you the Complex Technical things that you need to know, and I Communicate for you to the Developers the needs that you don't know how to explain.                                          
-  
-📔I feel very comfortable teaching things to others and leading small teams.                                                                                                                                     
-📈Passionate about Investments, GeoPolitics and Economics.                                                                                                                                                       
-📚I am very ambitious and curious and I am continually learning new things.                                                                                                                                                                                                                                                                            
-                                                                                              
-⌨️I get a lot of messages from recruiters. To respect both of our time, instead of messaging me, please fill out this form:
-https://forms.gle/tdW6E2nHVWxmAh9Z9
-</details>
-

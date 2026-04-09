@@ -1,13 +1,9 @@
 # 👨‍💻 Ignacio Ceaglio 💻🚀
 
-**`Data Scientist and Machine Learning Engineer-Scientist Python | Data Engineer SQL.`**                                                                                                         
-**`Senior Solidity Developer + Technical Project Architect + People's Person = Blockchain C.T.O. On-Demand`**
+**`Freelance Senior Data Engineer SQL | Senior Data Scientist and Machine Learning Engineer MLOps PYTHON | Consultant💻 |`**                           
 
-👨🏻‍💻My professional passion is in planning, architecting, developing and testing Machine Learning Models that help to research Valuable
-Investment and Business opportunities for the shareholders, and in talking/networking with clients and company partners. **I have a
-background in Full-Stack JavaScript Web Development** at the beginning of my career, and later I developed a strong background in
-Solidity Smart Contracts Development; **but since then I have specialized in Data Science and Machine Learning Engineering in
-Python.**
+💻Senior/Lead Software Engineer with +6 Years of Experience within all sorts of organizations and +30 Data Industry Relevant Certifications.📜
+📈End-to-End Data Professional👨🏼‍🔧covering: Data Science and Engineering, Machine Learning Engineering, Data Governance (GDPR and EU AI Act) and Compliance Auditing, and implementation of organization-wide Data Literacy📓.
                                                                                    
 
 My clients and co-workers (Recommendations below) have praised me for being, in their own words; “very curious, pro-active, positive, humble, helpful, diligent, intelligent, passionate and ambitious”.👨🏻‍💻    

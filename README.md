@@ -1,6 +1,6 @@
 # 👨‍💻 Ignacio Ceaglio 💻🚀
 
-**`Freelance Senior Data Engineer SQL | Senior Data Scientist and Machine Learning Engineer MLOps PYTHON | Consultant💻 |`**                           
+**`Freelance Senior Data Engineer SQL | Senior Machine Learning Engineer MLOps PYTHON | Consultant💻 |`**                           
 
 💻Senior Lead Data Engineer with +6 Years of Experience within all sorts of organizations and +35 Data Industry Relevant Certifications.📜
 📈End-to-End Data Professional👨🏼‍🔧covering: Data Science and Engineering, Machine Learning Engineering, Data Governance (GDPR and EU AI Act) and Compliance Auditing, and implementation of organization-wide Data Literacy📓.

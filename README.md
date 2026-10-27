@@ -2,11 +2,14 @@
 
 **`Freelance Senior Data Engineer SQL | Senior Machine Learning Engineer MLOps PYTHON | Consultant💻 |`**                           
 
-💻Senior Lead Data Engineer with +6 Years of Experience within all sorts of organizations and +35 Data Industry Relevant Certifications.📜
-📈End-to-End Data Professional👨🏼‍🔧covering: Data Science and Engineering, Machine Learning Engineering, Data Governance (GDPR and EU AI Act) and Compliance Auditing, and implementation of organization-wide Data Literacy📓.
-                                                                                   
+Senior Lead Data Engineer and Data Architect who helps Regulated Finance, Insurance and Energy (Oil and Gas) Companies make their Data AI-ready and audit-proof under GDPR and the EU AI Act. Unlike generalist contractors, I combine production Data Engineering with hands-on Data Governance.
 
-My clients and co-workers (Recommendations below) have praised me for being, in their own words; “very curious, pro-active, positive, humble, helpful, diligent, intelligent, passionate and ambitious”.👨🏻‍💻    
+💻Senior Data Engineer with +6 Years of Experience within all sorts of organizations and +40 Data Industry Relevant Certifications.📜
+Italian Citizen🇮🇹🇪🇺.
+
+📈End-to-End Data Professional👨🏼‍🔧covering: Data Engineering, Data Architecture, Data Governance (GDPR and EU AI Act) and Compliance Auditing, and implementation of organization-wide Data Literacy📓.
+
+👨🏻‍💻My clients and co-workers (Recommendations at the bottom of my profile) have praised me for being, in their own words; “very curious, pro-active, positive, humble, helpful, diligent, intelligent, passionate and ambitious”.   
 
 
 📜 Creator of the [ERC-7776: Transparent Financial Statements Standard](https://eips.ethereum.org/EIPS/eip-7776).                                                                                             
